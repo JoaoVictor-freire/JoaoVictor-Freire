@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently searching for **intership**
+ 🔭 I’m currently searching for **internship**
  
  🌱 I’m currently learning **Js, Node**
 
