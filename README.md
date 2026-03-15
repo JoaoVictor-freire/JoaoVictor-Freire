@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,github,git,typescript,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,python,vscode,github,git,typescript,docker,postgres" />
 </div>
 
 <br/>
