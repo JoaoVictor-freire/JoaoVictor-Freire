@@ -8,13 +8,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently searching for **internship**
- 
- 🌱 I’m currently learning **Js, Node**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:joao.matos@academico.ufpb.br">
