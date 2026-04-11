@@ -1,5 +1,4 @@
 # João Victor Barbosa
-**Engenheiro de Computação em Formação (UFPB) | Desenvolvedor Fullstack @ CEBRASPE**
 
 <div align="left">
   <a href="mailto:joao.matos@academico.ufpb.br">Email Profissional</a> • 
